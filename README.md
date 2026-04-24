@@ -1,3 +1,5 @@
+Hi, I’m Zahra Forouzan.
+
 I’m a junior Python developer with a deep passion for Python and a relentless drive to solve challenging problems. I’m constantly learning and building exciting projects at the intersection of Data Science, Artificial Intelligence, and Clean Code practices.
 
 My Focus Areas
