@@ -3,27 +3,6 @@
 <div align="center">
   <p><em>A passionate Junior Python Developer specializing in Data Science, AI, and Clean Code.</em></p>
 </div>
-
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top: 20px;">
-  <div style="text-align:center;">
-    <br>
-    <strong>Data Analysis & Viz</strong>
-    <p>Turning data into actionable insights.</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/code.png" alt="Clean Code Icon"/>
-    <br>
-    <strong>Clean Code Advocate</strong>
-    <p>Writing readable and maintainable Python.</p>
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Icon"/>
-    <br>
-    <strong>AI Enthusiast</strong>
-    <p>Exploring the potential of AI.</p>
-  </div>
-</div>
-
 <br>
 
 ## 🚀 My Current Journey:
