@@ -1,7 +1,7 @@
-## <img src="https://img.icons8.com/color/48/000000/python-logo.png" width="40"/> Hello there! I'm Zahra Forouzan
+## Hello there! I'm Zahra Forouzan
 
 <div align="center">
-  <img src="[/mnt/data/image_gen_6b1ad6d4-c49c-4908-96bb-0308887272e7_0.png"](https://storage.gapgpt.app/media/code_interpreter/09297d77-3e5b-4663-85ed-69819f45b697/image_gen_6b1ad6d4-c49c-4908-96bb-0308887272e7_0.png%22) width="600"/>
+  <img src="[https://storage.gapgpt.app/media/code_interpreter/09297d77-3e5b-4663-85ed-69819f45b697/image_gen_6b1ad6d4-c49c-4908-96bb-0308887272e7_0.png%22"] width="600"/>
   <p><em>A passionate Junior Python Developer specializing in Data Science, AI, and Clean Code.</em></p>
 </div>
 
